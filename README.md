@@ -1,1 +1,1 @@
-# Justice_Reskill_3
+# Justice_Reskill_3: Hello class.  I spent some time creating a quick repository to upload command line homework to so you can see process.  I thoroughly enjoy learning with you all!
